@@ -1,6 +1,8 @@
 # Bitácora KDP
 
 ## 2026-11-19
+- Creada la rama `main` en GitHub con todo el contenido y fijada como rama principal del repositorio.
+- Revisados los PDF de Vol. 2 y 3: cumplen requisitos de KDP (márgenes, fuentes incrustadas, tamaño de portada para 130 págs. en papel blanco). Listos para subir.
 - Vol. 1 confirmado como publicado en KDP, precio USD 9.99. Vol. 2 y 3 aún no publicados.
 - Registrado el ASIN del Vol. 1: B0HS5CFM3B (https://www.amazon.com/dp/B0HS5CFM3B).
 - Vol. 1 publicado el 2026-11-16. Vol. 2 y 3 aún sin subir a KDP (Sergio avisará al subirlos). Precio fijado en USD 9.99 para los tres volúmenes.
