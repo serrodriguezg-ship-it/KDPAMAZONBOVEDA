@@ -80,7 +80,9 @@ Debe salir: 130 páginas, 8.5 x 11, sin errores. Si el previewer marca error de 
 | Price | **USD 9.99** (KDP calcula los demás mercados; puedes dejarlos automáticos) |
 | Expanded distribution | Igual que el Vol. 1 |
 
-Regalía aproximada en Amazon.com: 60 % × 9.99 − costo de impresión (~USD 2.56 para 130 págs. B/N) ≈ **USD 3.40 por libro**. KDP muestra el valor exacto en esa pantalla.
+Regalía en Amazon.com (según la pantalla de KDP, 2026-11-20): 60 % × 9.99 − impresión USD 3.21 = **USD 2.78 por libro**.
+
+Otros mercados: pulsa «Base this price on Amazon.com» y luego sube al umbral del 60 % los que queden por debajo: CAD 13.99, AUD 13.99, GBP 7.99, EUR 9.99 (be, de, es, fr, ie, it, nl), PLN 40,00, SEK 110,00, JPY 1,000 o más.
 
 → **Publish Your Paperback Book**
 
