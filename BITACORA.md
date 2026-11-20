@@ -1,5 +1,8 @@
 # Bitácora KDP
 
+## 2026-11-20
+- Creada `GUIA_SUBIDA_KDP.md` con los pasos para subir los volúmenes 2 y 3.
+
 ## 2026-11-19
 - Creada la rama `main` en GitHub con todo el contenido y fijada como rama principal del repositorio.
 - Revisados los PDF de Vol. 2 y 3: cumplen requisitos de KDP (márgenes, fuentes incrustadas, tamaño de portada para 130 págs. en papel blanco). Listos para subir.
