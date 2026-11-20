@@ -2,6 +2,7 @@
 
 ## 2026-11-20
 - Vol. 2 enviado a KDP (fecha de publicación 2026-11-20). En revisión, hasta 72 h. Datos: papel blanco, 8.5 × 11 in, sin sangrado, ISBN gratuito de KDP, categorías Word Search / Sudoku / Puzzles, sin Expanded Distribution, USD 9.99. Pendiente: ASIN.
+- ASIN del Vol. 2: B0HSCPXHBJ (https://www.amazon.com/dp/B0HSCPXHBJ).
 - Creada `GUIA_SUBIDA_KDP.md` con los pasos para subir los volúmenes 2 y 3.
 
 ## 2026-11-19
